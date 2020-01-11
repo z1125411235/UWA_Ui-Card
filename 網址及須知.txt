@@ -1,0 +1,7 @@
+版本:Unity 2019.2.17f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5da4e1958bab6aaf02554fb2
+
+官方Github網址__https://github.com/ycarowr/UiCard
+
+本人Github網址__https://github.com/z1125411235/Ui-Card
